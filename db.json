@@ -4,6 +4,21 @@
       "id": 1,
       "title": "json-server",
       "author": "typicode"
+    },
+    {
+      "author": "Jeff",
+      "title": "Jeff's Work",
+      "id": 2
+    },
+    {
+      "author": "Weezer",
+      "title": "Haunt u every day",
+      "id": 3
+    },
+    {
+      "author": "adelle",
+      "title": "hello",
+      "id": 5
     }
   ],
   "comments": [
